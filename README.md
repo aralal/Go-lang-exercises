@@ -1,1 +1,1 @@
-Go lang exercises 2
+Go lang exercises 

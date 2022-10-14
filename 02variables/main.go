@@ -26,7 +26,7 @@ func main() {
 	fmt.Printf("this variable is of type: %T \n", anotherVariable)
 	fmt.Println("Helllo")
 
-	var website = "Learncodeonline.com"
+	var website = "github.com"
 	fmt.Println(website)
 
 	noofusers := 40000.242
