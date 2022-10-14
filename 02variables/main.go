@@ -24,13 +24,11 @@ func main() {
 	var anotherVariable int
 	fmt.Println(anotherVariable)
 	fmt.Printf("this variable is of type: %T \n", anotherVariable)
-
-	// implicite type
+	fmt.Println("Helllo")
 
 	var website = "Learncodeonline.com"
 	fmt.Println(website)
 
-	// no var style
 	noofusers := 40000.242
 	fmt.Println(noofusers)
 
