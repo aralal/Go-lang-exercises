@@ -6,8 +6,10 @@ const LoggedinToken string = "bsdjsbkjdbk" //Public
 
 func main() {
 	var username string = "aravind"
+	var usern string = username
 	fmt.Println(username)
 	fmt.Printf("This variable is of type: %T \n", username)
+	fmt.Printf("This variable is of type: %T \n", usern)
 
 	var isloggedin bool = true
 	fmt.Println(isloggedin)
